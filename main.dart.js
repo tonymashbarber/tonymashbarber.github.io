@@ -41167,7 +41167,7 @@ return s},
 gBf(){return 0}}
 A.ID.prototype={
 L(a){var s=null
-return new A.zT(B.EH,"Barber Scheduler",A.v4(s,s,B.tD,s),s)}}
+return new A.zT(B.EH,"Tony Mash Barber Scheduler",A.v4(s,s,B.tD,s),s)}}
 A.L5.prototype={
 L(a){var s=null,r=A.ZK(B.T7),q=t.p,p=A.ayz(A.b([new A.Kl(B.Aw,A.dk(A.b([B.T9],q),B.a1,B.eQ,B.V),s),A.zH(s,new A.a4P(a),s,B.Tf,s),A.zH(s,new A.a4Q(a),s,B.z5,s),A.zH(s,new A.a4R(a),s,B.T8,s)],q))
 return A.acF(r,A.lz(B.bX,A.b([A.ay6("https://i.imgur.com/rCvgPGi.jpeg",new A.a4S(),B.lD),A.kG(s,s,B.D,A.aF(B.c.au(178.5),B.l.D()>>>16&255,B.l.D()>>>8&255,B.l.D()&255),s,s,s,s,s,s,s,s,s),B.BJ],q),B.K,B.O6),new A.Kh(p,s))}}
@@ -41177,7 +41177,7 @@ A.fk(this.a,!1).lc(s)},
 $S:0}
 A.a4O.prototype={
 $1(a){var s=t.s
-return new A.rA(A.b(["mid fade R70","Brush fade R70","cut with design R80","Plain brush cuit R50","Ladies cut R80","Chiskop R50","taper fade R70"],s),A.b(["https://i.imgur.com/rCvgPGi.jpeg","https://i.imgur.com/oVjpoad.jpeg","https://i.imgur.com/hznWZwZ.jpeg","https://i.imgur.com/EUVlN67.jpeg","https://i.imgur.com/1dD4VyM.jpeg","https://i.imgur.com/2cpHC84.jpeg","https://i.imgur.com/jPUdGTz.jpeg"],s),null)},
+return new A.rA(A.b(["mid-fade R70","Brush-fade R70","cut with design R80","Plain brush cuit R50","Ladies-cut R80","Chiskop R50","taper-fade R70"],s),A.b(["https://i.imgur.com/rCvgPGi.jpeg","https://i.imgur.com/oVjpoad.jpeg","https://i.imgur.com/hznWZwZ.jpeg","https://i.imgur.com/EUVlN67.jpeg","https://i.imgur.com/1dD4VyM.jpeg","https://i.imgur.com/2cpHC84.jpeg","https://i.imgur.com/jPUdGTz.jpeg"],s),null)},
 $S:516}
 A.a4Q.prototype={
 $0(){var s=A.a92(new A.a4N(),null,t.z)
@@ -41224,7 +41224,7 @@ A.rA.prototype={
 L(a){return A.acF(A.ZK(B.Td),A.ayA(new A.a_P(this),7),null)}}
 A.a_P.prototype={
 $2(a,b){var s=null,r=A.aa(a,s,t.w).w,q=this.a
-return new A.bj(B.mC,A.cP(A.fn(A.b([A.cP(new A.Je(A.rv(12),A.ay6(q.d[b],new A.a_O(),B.lD),s),1/0,r.a.a*0.5),B.yB,A.dw(A.hR(A.cf(q.c[b],s,s,s,B.Se,B.d2,s,s),s,s),1)],t.p),B.a1,B.F,B.V,s),600,s),s)},
+return new A.bj(B.mC,A.cP(A.fn(A.b([A.cP(new A.Je(A.rv(12),A.ay6(q.d[b],new A.a_O(),B.lD),s),1/0,r.a.a*0.5),B.yB,A.dw(A.hR(A.cf(q.c[b],s,s,s,B.Se,B.d2,s,s),s,s),1)],t.p),B.a1,B.F,B.V,s),602,s),s)},
 $S:488}
 A.a_O.prototype={
 $3(a,b,c){return B.EY},
